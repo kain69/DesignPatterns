@@ -1,5 +1,4 @@
-# DesignPatterns
-Design patterns implementations
+# Паттерны проектирования
 
 ## Антипаттерны
 
