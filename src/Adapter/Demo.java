@@ -1,8 +1,8 @@
 package Adapter;
 
-import Adapter.Round.RoundHole;
-import Adapter.Round.RoundPeg;
-import Adapter.Square.SquarePegAdapter;
+import Adapter.Round.RoundImpl.RoundHole;
+import Adapter.Round.RoundImpl.RoundPeg;
+import Adapter.Square.adapters.SquarePegAdapter;
 
 public class Demo {
     public static void main(String[] args) {

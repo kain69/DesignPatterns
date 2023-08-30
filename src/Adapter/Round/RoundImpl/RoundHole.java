@@ -1,6 +1,8 @@
-package Adapter.Round;
+package Adapter.Round.RoundImpl;
 
-public class RoundHole implements Roundable{
+import Adapter.Round.Roundable;
+
+public class RoundHole implements Roundable {
 
     private final double radius;
 

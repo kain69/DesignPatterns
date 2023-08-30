@@ -1,6 +1,7 @@
-package Adapter.Square;
+package Adapter.Square.adapters;
 
 import Adapter.Round.Roundable;
+import Adapter.Square.SquarePeg;
 
 public class SquarePegAdapter
         extends SquarePeg
